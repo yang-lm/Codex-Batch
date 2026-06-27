@@ -2,6 +2,10 @@
 
 Codex Batch 是一个跨平台桌面软件，用来把多个项目的需求文档排队交给本机 Codex CLI 执行。它不会要求用户单独填写 API key 或访问地址，而是复用当前系统里已经登录和配置好的 `codex`。
 
+[Mac 版本下载地址](https://github.com/yang-lm/Codex-Batch/releases/download/download/Mac.Codex.Batch.app.zip)
+
+[wind 版本下载地址](https://github.com/yang-lm/Codex-Batch/releases/download/download/window.Codex.Batch.Setup.1.0.0.exe)
+
 <img width="1180" height="780" alt="image" src="https://github.com/user-attachments/assets/98738bbb-2fea-4a02-b787-45434137424b" />
 
 
